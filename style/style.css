@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1,
+h2,
+h4,
+h5,
+h6,
+span {
+  font-family: "Dancing Script", sans-serif;
+}
+
+/* bg-hero */
+
+.bg-hero {
+  background-image: url(/img/hero-bg.jpg);
+  background-size: cover;
+  background-position: center;
+}
